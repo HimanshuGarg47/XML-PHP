@@ -1,0 +1,16 @@
+<!DOCTYPE movies SYSTEM "Dtdfirst.dtd">
+
+<movies>
+<movie>
+<title> Mr. India </title>
+<year> 2003 </year>
+<genre> Comedy </genre>
+</movie>
+
+<movie>
+<title> DDLJ </title>
+<year> 2000 </year>
+<genre> Romantic </genre> 
+</movie>
+
+</movies>

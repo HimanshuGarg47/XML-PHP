@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<market>
+<Hellobookstore>
+<!-- This is a comment -->
+	<shelf category="literature">
+		<author>RabindarNath Tagore</author>
+		<message>salary &lt; 1000</message>
+		<author>J K. Rowling</author>
+	</shelf>
+	<shelf category="Science">
+	<author>Newton</author>
+	<author>Einstein</author>
+	</shelf>
+</Hellobookstore>
+<diary>
+	<milkprod>cheese</milkprod>
+	<milkprod>milk</milkprod>
+	<milkprod>butter</milkprod>
+</diary>
+<Garments>
+	<cloth>Trouser</cloth>
+	<cloth>Shirt</cloth>
+</Garments>
+
+		
+</market>
+

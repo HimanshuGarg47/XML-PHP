@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:schema xmlns:ms="http://www.w3.org/2001/XMLSchema">
+<ms:element name= "movies">
+    <ms:complexType>
+        <ms:sequence>
+            <ms:element name="movie" maxOccurs="unbounded">
+                <ms:complexType>
+                    <ms:sequence>
+                        <ms:element name="title" type="ms:string"/>
+                        <ms:element name="year" type="ms:integer"/>
+                        <ms:element name="genre" type="ms:string"/>
+
+                    </ms:sequence>
+                </ms:complexType>
+            </ms:element>
+        </ms:sequence>
+    </ms:complexType>
+</ms:element>
+</ms:schema>

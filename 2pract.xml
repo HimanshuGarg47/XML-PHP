@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+	<book category="networking">
+	<title lang="en">DATA COMMUNICATIONS AND NETWORKING</title>
+	<author>Behrouz A. Forouzan</author>
+	<isbn_no>9780070634145</isbn_no>
+	<publisher>McGraw Hill</publisher>
+	<edition>4th</edition>
+	<price>Rs. 439</price>
+	</book>
+
+	<book category="web">
+	<title lang="en">Learning XML</title>
+	<author>Erik T. Ray </author>
+	<isbn_no>9780596000462</isbn_no>
+	<publisher>O'Reilly Media</publisher>
+	<edition>6th </edition>
+	<price>Rs. 539</price>
+	</book>
+</Library>
