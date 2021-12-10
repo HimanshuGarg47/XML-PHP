@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sometext>
+    <![CDATA[ They 're saying <hell> </hello> "x < y" & that "z > y" so I guess that means that z > x]]>
+        <sample>
+            <description>
+                Paragraphs can include emphasized text.     
+            </description>
+            <example>
+                <p></p>
+            </example>
+        </sample>
+</sometext>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE song 
+[
+    <!ELEMENT song (artist,album)>
+    <!ELEMENT artist EMPTY>
+    <!ATTLIST artist name CDATA #REQUIRED>
+    <!ATTLIST artist artistID ID #REQUIRED>
+    <!ELEMENT album EMPTY>
+    <!ATTLIST album name  CDATA #REQUIRED>
+    <!ATTLIST album albumArtistID IDREF #IMPLIED>
+    <!ATTLIST album contributingArtistIDs IDREFS #IMPLIED>
+]>
+<song>
+<artist name="Nick Cave" artistID="NC"/>
+<artist name="Kylie Minogue" artistID="KM"/>
+<artist name="PJ Harvey" artistID="PJH"/>
+<artist name="Shane MacGowan" artistID="SM"/>
+<album name="Murder Baildas" albumArtistID="NC" contributingArtistIDs="KM PJH SM" />
+
+</song>
